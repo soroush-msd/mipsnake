@@ -13,7 +13,10 @@ $ spim -file worm.s 10 99 23
 ```
 
 
-https://github.com/soroush-msd/mipsnake/assets/83174840/a08b4560-8127-4933-8564-d537a87b23e4
+
+https://github.com/soroush-msd/mipsnake/assets/83174840/90db029a-2a21-48d3-a8b1-3fa894136a85
+
+
 
 
 
